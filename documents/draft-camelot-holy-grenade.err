@@ -1,0 +1,29 @@
+/__w/rfc-camelot-holy-grenade/rfc-camelot-holy-grenade/site/documents/draft-camelot-holy-grenade.err errors
+
+
+== Metanorma XML Style Warning
+
+(XML Line 000260): Hanging paragraph in clause
+	<clause id="caerbannog" inline-header="false" obligation="normative"><title>The Mythos of Caerbannog</title><p id="_b6abdff0-2eca-474c-bdb2-6ee99aa8a9f9">The <em>Cave of Caerbannog</em> has been well-established in the mythology
+	of Camelot (as recounted by Monty Python) as the lair of the
+	Legendary Black Beast of Arrrghhh, more commonly known today as the
+	<strong>Killer Rabbit of Caerbannog</strong> <xref target="killer_rabbit_caerbannog"/>.
+	It is the encounter between the Killer Rabbit of Caerbannog and the
+(XML Line 000544): Hanging paragraph in clause
+	<clause id="_dramatis_personae" inline-header="false" obligation="normative"><title>Dramatis Personae</title><p id="_ac5a7527-97aa-459d-a0af-291f889b085c">The following human (more-or-less) protagonists were involved
+	in the two incidents recounted as lore of the Knights of the
+	Round Table:</p>
+	<table id="_e229ae34-3cb6-497f-827e-c485fe1edc73">
+	<thead>
+(XML Line 000547): Table should have title
+	<table id="_e229ae34-3cb6-497f-827e-c485fe1edc73">
+	<thead>
+	<tr>
+	<th valign="top" align="left">French Castle</th>
+	<th valign="top" align="left">Cave of Caerbannog</th>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000026:52): character content of element "revision-date" invalid; must be a string matching the regular expression "([\+\-]?\d{4})((-?)((0[1-9]|1[0-2])((-?)([12]\d|0[1-9]|3[01]))?|W([0-4]\d|5[0-2])(-?[1-7])?|(00[1-9]|0[1-9]\d|[12]\d{2}|3([0-5]\d|6[1-6]))))?"
+(XML Line 000106:88): attribute "obligation" not allowed here; expected attribute "language", "numbered", "removeInRFC", "script" or "toc"
